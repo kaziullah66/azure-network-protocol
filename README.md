@@ -47,17 +47,20 @@ Downloaded Wireshark, a protocol analyzer, and started observing traffic on the 
 <br />
 
 <p>
-<img src="---------------"/>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462041292_1078707823865198_7710343445828787921_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=jPaKa8WiX2wQ7kNvgHUjjPP&_nc_ht=scontent-lga3-2.xx&_nc_gid=AknKDGaSMPzMxIs6m2zFGQv&oh=03_Q7cD1QG2x8ljNMoSGaVja6HsDoV8jeyreMvSB4eBf6J0Lkmg5w&oe=673353E3"/>
 </p>
 <p>
-We created a Linux and a Windows virtual machine on the same network so we can send and receive traffic. 
+We filtered for ICMP traffic, initiated a perpetual ping, and started receiving replies from the Linux virtual machine. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462543021_1616316085945696_4570867840570373192_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=NdPEFi3Z3lgQ7kNvgEvuYk2&_nc_ht=scontent-lga3-2.xx&_nc_gid=ASJlsmJFniigreI5skKyyu4&oh=03_Q7cD1QHMGnZgzPk5upi7CD57GTN4HbDy2m0Jgs4VnajorX0Bcg&oe=67333DBA"/>
+
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462567831_552622970489830_6102310246806097682_n.png?_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=YnHwbvvURNMQ7kNvgHFW9dU&_nc_ht=scontent-lga3-2.xx&_nc_gid=AX4KhUkcdsIG868Ji_ZAveV&oh=03_Q7cD1QG2RLf7ygG7ygNDcSTOeZpE7AohK5uUUpY9E444y_i2dg&oe=67334B05"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We created an inbound port rule for our Linux virtual machine in Azure to deny the requests coming. We see that now the requests are timing out and being ignored.
 </p>
 <br />
