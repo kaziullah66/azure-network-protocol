@@ -21,10 +21,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create Windows and Linux virtual machines
+- Download a protocol analyzer 
+- Filter for ICMP traffic 
+- Send out a perpetual ping through the Windows virtual machine and create an inbound security rule in the Linux virtual machine to ignore the ping requests
+- Log on to the Linux virtual machine and filter for SSH on Wireshark
 
 <h2>Actions and Observations</h2>
 
