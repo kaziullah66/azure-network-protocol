@@ -46,7 +46,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462546698_1532769527599755_5436332455491231297_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=kXqqR6QYVn4Q7kNvgF2R4Dr&_nc_ht=scontent-lga3-2.xx&_nc_gid=Ar-jMIxPTT1EdEThrkPaJz4&oh=03_Q7cD1QGztmvwvKUf784jEsTam2t5s96y9CyntCylUtQRuvHZmA&oe=6733395B" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462542524_1405934143699130_2291762641591403772_n.png?stp=dst-png_s843x403&_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=mILDAqVf3VAQ7kNvgEETZHj&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_gid=AjdBEJYpIE2yZflSCm03WuO&oh=03_Q7cD1QG7LeIlinf22UhembpWeYhqG6ada6y6Ya6W0Tk1ubLyGg&oe=6733283F"/>
 </p>
 <p>
 We created a Linux and a Windows virtual machine on the same network so we can send and receive traffic. 
