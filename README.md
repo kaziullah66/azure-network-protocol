@@ -38,7 +38,7 @@ We created a Linux and a Windows virtual machine on the same network so we can s
 <br />
 
 <p>
-<img src="[https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps](https://www.messenger.com/messenger_media/?attachment_id=865569975708650&message_id=mid.%24cAABa9TbkxDCYtzOL12She4SSL1Lw&thread_id=100009234449456)"/>
+<img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462547701_865569982375316_464831406093664846_n.png?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=NcmCIA2voJQQ7kNvgHlei7x&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_gid=A_habXvldgvuLwKZaDX7U93&oh=03_Q7cD1QFkDRCSvh5N3pR2ygeLLMkh-iGfaLexWogX7dA4uqSTug&oe=67332D66"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
