@@ -42,7 +42,7 @@ We created a Linux and a Windows virtual machine on the same network so we can s
 <img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462542524_1405934143699130_2291762641591403772_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=mILDAqVf3VAQ7kNvgH9YzXW&_nc_ht=scontent-lga3-2.xx&_nc_gid=A9TRwuGQcF22EV-CEymANH6&oh=03_Q7cD1QGUb-AEX0zTBYnOSx3D39qCApF09mBNqUwjDmknXdKygg&oe=6733283F"/>
 </p>
 <p>
-Downloaded Wireshark, a protocol analyzer.
+Downloaded Wireshark, a protocol analyzer, and started observing traffic on the computer.
 </p>
 <br />
 
