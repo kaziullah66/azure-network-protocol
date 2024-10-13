@@ -29,7 +29,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="![462546698_1532769527599755_5436332455491231297_n](https://github.com/user-attachments/assets/cd3b2b53-8d16-4ec9-9d66-e1215e82e41d)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[![462546698_1532769527599755_5436332455491231297_n](https://github.com/user-attachments/assets/cd3b2b53-8d16-4ec9-9d66-e1215e82e41d)](https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462546698_1532769527599755_5436332455491231297_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=kXqqR6QYVn4Q7kNvgF2R4Dr&_nc_ht=scontent-lga3-2.xx&_nc_gid=Ar-jMIxPTT1EdEThrkPaJz4&oh=03_Q7cD1QGztmvwvKUf784jEsTam2t5s96y9CyntCylUtQRuvHZmA&oe=6733395B)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
