@@ -39,6 +39,7 @@ We created a Linux and a Windows virtual machine on the same network so we can s
 
 <p>
 <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462547701_865569982375316_464831406093664846_n.png?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=NcmCIA2voJQQ7kNvgHlei7x&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_gid=A_habXvldgvuLwKZaDX7U93&oh=03_Q7cD1QFkDRCSvh5N3pR2ygeLLMkh-iGfaLexWogX7dA4uqSTug&oe=67332D66"/>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462542524_1405934143699130_2291762641591403772_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=mILDAqVf3VAQ7kNvgH9YzXW&_nc_ht=scontent-lga3-2.xx&_nc_gid=A9TRwuGQcF22EV-CEymANH6&oh=03_Q7cD1QGUb-AEX0zTBYnOSx3D39qCApF09mBNqUwjDmknXdKygg&oe=6733283F"/>
 </p>
 <p>
 Downloaded Wireshark, a protocol analyzer.
@@ -46,7 +47,7 @@ Downloaded Wireshark, a protocol analyzer.
 <br />
 
 <p>
-<img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462542524_1405934143699130_2291762641591403772_n.png?stp=dst-png_s843x403&_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=mILDAqVf3VAQ7kNvgEETZHj&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_gid=AjdBEJYpIE2yZflSCm03WuO&oh=03_Q7cD1QG7LeIlinf22UhembpWeYhqG6ada6y6Ya6W0Tk1ubLyGg&oe=6733283F"/>
+<img src="---------------"/>
 </p>
 <p>
 We created a Linux and a Windows virtual machine on the same network so we can send and receive traffic. 
