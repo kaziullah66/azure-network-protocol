@@ -64,3 +64,12 @@ We filtered for ICMP traffic, initiated a perpetual ping, and started receiving 
 We created an inbound port rule for our Linux virtual machine in Azure to deny incoming requests. We see that the requests are now timing out and being ignored.
 </p>
 <br />
+
+
+<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462639026_1085569749852165_3156622879168093775_n.png?_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=EJtMqOO3mB0Q7kNvgFLqBnQ&_nc_ht=scontent-lga3-2.xx&_nc_gid=ANZkkAN6lGuj11HiKzAubIr&oh=03_Q7cD1QHDWVPHHlU8QhnMe56rfaLfLWdXLGkfYdO9FK64dcu7NA&oe=6734FBAA"/>
+</p>
+<p>
+We filtered for ICMP traffic, initiated a perpetual ping, and started receiving replies from the Linux virtual machine. 
+</p>
+<br />
