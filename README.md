@@ -33,7 +33,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462546698_1532769527599755_5436332455491231297_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=kXqqR6QYVn4Q7kNvgF2R4Dr&_nc_ht=scontent-lga3-2.xx&_nc_gid=Ar-jMIxPTT1EdEThrkPaJz4&oh=03_Q7cD1QGztmvwvKUf784jEsTam2t5s96y9CyntCylUtQRuvHZmA&oe=6733395B" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-We created a Linux and a Windows virtual machine on the same network so we can send and receive traffic. 
+We created a Linux and a Windows virtual machine on the same network so we can observe traffic. 
 </p>
 <br />
 
@@ -61,6 +61,6 @@ We filtered for ICMP traffic, initiated a perpetual ping, and started receiving 
 
 </p>
 <p>
-We created an inbound port rule for our Linux virtual machine in Azure to deny the requests coming. We see that now the requests are timing out and being ignored.
+We created an inbound port rule for our Linux virtual machine in Azure to deny incoming requests. We see that the requests are now timing out and being ignored.
 </p>
 <br />
