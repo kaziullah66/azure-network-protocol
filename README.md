@@ -26,6 +26,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Filter for ICMP traffic 
 - Send out a perpetual ping through the Windows virtual machine and create an inbound security rule in the Linux virtual machine to ignore the ping requests
 - Log on to the Linux virtual machine and filter for SSH on Wireshark
+- Filter for DNS
+- Filter for RDP
 
 <h2>Actions and Observations</h2>
 
@@ -73,3 +75,23 @@ We created an inbound port rule for our Linux virtual machine in Azure to deny i
 We connected to our Linux virtual machine and filtered for SSH. 
 </p>
 <br />
+
+<p>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462539840_1050355300170841_2499457334563325859_n.png?_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=NdhcGkN1veQQ7kNvgGLSg5u&_nc_ht=scontent-lga3-1.xx&_nc_gid=AaAaEIdQiNam4YE_ZM3ed0M&oh=03_Q7cD1QFayGGyexi3A9APUGfAnsVJBpzC7uCo_rHE2Bkm7kHkwQ&oe=6735227D"/>
+</p>
+<p>
+We filtered for DNS. 
+</p>
+<br />
+<p>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462540281_556518583724149_4773454699472645203_n.png?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=FKDA7piLw2sQ7kNvgG2F7n7&_nc_ht=scontent-lga3-1.xx&_nc_gid=A-36XImvw4MaPyR_7jzt4RD&oh=03_Q7cD1QGIKzQ4U6j34kGtetV0bcb3DmyjqBuQKVtKsM5dDkUAXA&oe=673528F1"/>
+</p>
+<p>
+We filtered for RDP. 
+</p>
+<br />
+
+
+
+
+
