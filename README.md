@@ -24,7 +24,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Create Windows and Linux virtual machines
 - Download a protocol analyzer 
 - Filter for ICMP traffic 
-- Send out a perpetual ping through the Windows virtual machine and create an inbound security rule in the Linux virtual machine to ignore the ping requests
+- Send out a perpetual ping
+- Create an inbound security rule 
 - Log on to the Linux virtual machine and filter for SSH on Wireshark
 - Filter for DNS
 - Filter for RDP
