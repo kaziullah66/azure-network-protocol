@@ -41,7 +41,7 @@ We created a Linux and a Windows virtual machine on the same network so we could
 <br />
 <br />
 <p>
-<img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462547701_865569982375316_464831406093664846_n.png?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=NcmCIA2voJQQ7kNvgHlei7x&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_gid=A_habXvldgvuLwKZaDX7U93&oh=03_Q7cD1QFkDRCSvh5N3pR2ygeLLMkh-iGfaLexWogX7dA4uqSTug&oe=67332D66"/>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462547701_865569982375316_464831406093664846_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_ohc=YsaV1F16og0Q7kNvgGmumIp&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&oh=03_Q7cD1QHVuTJXMgWRWBjA4P_dN5wpOydKs8x8a4N4aA4NndfQyg&oe=6763F4E6"/>
 <img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462542524_1405934143699130_2291762641591403772_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=mILDAqVf3VAQ7kNvgH9YzXW&_nc_ht=scontent-lga3-2.xx&_nc_gid=A9TRwuGQcF22EV-CEymANH6&oh=03_Q7cD1QGUb-AEX0zTBYnOSx3D39qCApF09mBNqUwjDmknXdKygg&oe=6733283F"/>
 </p>
 <p>
